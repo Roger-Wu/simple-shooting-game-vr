@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3BC802D3-16CA-6035-AF43-5DF94E862C8B}") = "Cardboard_BallShootingGame", "Assembly-CSharp.csproj", "{D1BFD89F-9D08-238C-8B1B-CE75772BB842}"
+EndProject
+Project("{3BC802D3-16CA-6035-AF43-5DF94E862C8B}") = "Cardboard_BallShootingGame", "Assembly-CSharp-Editor.csproj", "{FE5E3C33-B94C-5F09-23C1-2107E82230F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BFD89F-9D08-238C-8B1B-CE75772BB842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BFD89F-9D08-238C-8B1B-CE75772BB842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BFD89F-9D08-238C-8B1B-CE75772BB842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BFD89F-9D08-238C-8B1B-CE75772BB842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5E3C33-B94C-5F09-23C1-2107E82230F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5E3C33-B94C-5F09-23C1-2107E82230F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5E3C33-B94C-5F09-23C1-2107E82230F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5E3C33-B94C-5F09-23C1-2107E82230F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
